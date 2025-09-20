@@ -17,4 +17,5 @@ It sort of feels overwhelming seeing such new concepts whilst also writing the c
 So I think my weaknesses are, not fully understanding how the code connects to one another and what they do. 
 My strength is asking people for help when I have trouble because I ususally have one or two errors in which I 
 ask my friends for assistance. An opportunity I identified during this activity is using the WorldPos Shader to 
-attach a shader to moving objects. 
+attach a shader to moving objects. Additionally, I think I should search online and look back at the slides to see 
+how coding shaders work so I come prepared understanding the concept more.
